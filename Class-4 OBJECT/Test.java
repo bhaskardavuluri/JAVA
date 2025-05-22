@@ -1,0 +1,19 @@
+public class Test{
+    int a=100;
+    int b=200;
+   static int c=300;
+   public static void main(String[] args) {
+     Test t1=new Test();
+     System.out.println(t1.a+t1.b+t1.c);
+     System.out.println(t1.a+t1.b+Test.c);
+     System.out.println(t1.a+t1.b+c);
+     Test t2=new Test();
+     t1.a=20;
+     System.out.println(t1.a+t1.b+t1.c);
+     System.out.println(t2.b);
+     t2.b=50;
+     System.out.println(t1.a+t1.b+t2.a+t2.b);
+
+   }
+
+}
