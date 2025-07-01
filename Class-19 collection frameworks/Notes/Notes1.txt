@@ -1,0 +1,24 @@
+JAVA collections Frameworks:
+==============================
+Arrays Disadvantages:1)arrays are homogeneous 
+					 2)we cant increase or decrease the size of an arrays
+                     3)No Datastructructre methods to perform data operations like:
+					     a)sorting
+						 b)searching
+						 c)shuffling..
+Arrays disadvantages can be solved by using collection frameworks..						 
+=========================================================================================
+Definition of Collection Frameworks:-
+---------------------------------------
+"It is a combination of collection interfaces and their implementation classes"
+                                        +
+"and also combination of arrays(class) and collections(class) and their utility classes.."
+                                        +
+"also combination of map interface and their implementation classes."
+***	THE THE COMBINATION OF ABOVE THREE ARE KNOWN AS COLLECTION FRAMEWORKS,,***
+=============================================================================================
+**Collection Interface:-
+--------------------------------------
+DEF:-"If you want to represent group of elements  as one entity and allowed hetrogeneous & duplicates."
+-> Collection elements are stored based upon indexing ...
+
