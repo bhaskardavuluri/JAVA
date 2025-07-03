@@ -19,6 +19,6 @@ Definition of Collection Frameworks:-
 =============================================================================================
 **Collection Interface:-
 --------------------------------------
-DEF:-"If you want to represent group of elements  as one entity and allowed hetrogeneous & duplicates."
+ArrayList DEF:-"If you want to represent group of elements  as one entity and allowed hetrogeneous & duplicates."
 -> Collection elements are stored based upon indexing ...
 
