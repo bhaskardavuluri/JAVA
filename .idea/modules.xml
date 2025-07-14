@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.iml" filepath="$PROJECT_DIR$/.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class-10 Loops/Class-10 Loops.iml" filepath="$PROJECT_DIR$/Class-10 Loops/Class-10 Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class-15 OOPS/Class-15 OOPS.iml" filepath="$PROJECT_DIR$/Class-15 OOPS/Class-15 OOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class-17 Strings/Class-17 Strings.iml" filepath="$PROJECT_DIR$/Class-17 Strings/Class-17 Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class-18 Exception handling/Class-18 Exception handling.iml" filepath="$PROJECT_DIR$/Class-18 Exception handling/Class-18 Exception handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class-19 collection frameworks/Class-19 collection frameworks.iml" filepath="$PROJECT_DIR$/Class-19 collection frameworks/Class-19 collection frameworks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class-19 collection frameworks/Lists/Lists.iml" filepath="$PROJECT_DIR$/Class-19 collection frameworks/Lists/Lists.iml" />
+    </modules>
+  </component>
+</project>

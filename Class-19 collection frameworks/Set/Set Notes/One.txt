@@ -1,0 +1,15 @@
+set
+=========================================
+definition:-does not allows duplicates and order is not maintained..
+Impementation Classes:
+========================
+1)hashset
+2)linkedhashset
+3)hash tree
+=====================
+hashset:-
+definition:-
+
+Before learning the hashset we must known about initial capacity and filratio
+Default initial capacity:-16
+Default filratio:-  0.75F

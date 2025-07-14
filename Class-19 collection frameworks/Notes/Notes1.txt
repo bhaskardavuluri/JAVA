@@ -15,10 +15,15 @@ Definition of Collection Frameworks:-
 "and also combination of arrays(class) and collections(class) and their utility classes.."
                                         +
 "also combination of map interface and their implementation classes."
-***	THE THE COMBINATION OF ABOVE THREE ARE KNOWN AS COLLECTION FRAMEWORKS,,***
+***	THE COMBINATION OF ABOVE THREE ARE KNOWN AS COLLECTION FRAMEWORKS,,***
 =============================================================================================
 **Collection Interface:-
 --------------------------------------
-ArrayList DEF:-"If you want to represent group of elements  as one entity and allowed hetrogeneous & duplicates."
+Array List DEF:-"If you want to represent group of elements  as one entity and allowed hetrogeneous & duplicates."
 -> Collection elements are stored based upon indexing ...
+Syntax of creating arraylist:-
+==============================================================================================
+ArrayList<Integer> eids=new ArrayList<Integer> ();//this is used to create integer type of objects..
+         (Datatype)(ArrayList name)..
+s
 

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Class -13 Wrapperclass" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Class-1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Class-11 Arrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Class-12 Abstarct class intro" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Class-14 Interface" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Class-16 Lang packages" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Class-2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Class-3 DATATYPES" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Class-4 OBJECT" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Class-5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Class-6 access modfiers" isTestSource="false" packagePrefix="com" />
+      <sourceFolder url="file://$MODULE_DIR$/Class-7 access modifiers" isTestSource="false" packagePrefix="com.sbi.users" />
+      <sourceFolder url="file://$MODULE_DIR$/Class-8 operators" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Class-9 conditional statements" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
